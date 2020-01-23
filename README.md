@@ -51,17 +51,17 @@ Used in the medical community as well as the DIY community
   * https://thebrainstimulator.net/faq/experienced-flash-light-turning-device-harmful/
 * Skin Irritation
 * Tingling or itching
-* Metalic taste
+* Metallic taste
 
 
 ## Equipment
 
-tDCS systems uses a power scource, circuit board, and electrodes to deliver a weak current to the scalp.
+tDCS systems uses a power source, circuit board, and electrodes to deliver a weak current to the scalp.
 
 For the Biohacking Village badge, we used:
 * Power - 9V battery
 * Custom circuit board
-* diy sponge electrodes
+* DIY sponge electrodes
 
 ### TDCS/Brain Stimulation Badge
 
@@ -102,7 +102,7 @@ Electrodes are a pair of electrical conductors that connect the battery to the s
     * Pre-frontal (Fp)
   * Parietal lobe (P)
     * processes information about temperature, taste, touch and movement
-  * Occipita lobe (O)
+  * Occipital lobe (O)
     * primarily responsible for vision
   * Temporal lobe (T)
     * processes memories, integrating them with sensations of taste, sound, sight and touch
@@ -136,6 +136,14 @@ Electrodes are a pair of electrical conductors that connect the battery to the s
 ##
 
 Use the cm side of the measuring tape, find your CZ, T3, T4, and circumference.
+* Even numbers on the right and odd numbers on the left
+* Find your CZ
+* Measure from Nasion to Inion
+* Mark 50% between N and I
+* Measure from left preauricular point (LPA) to right preauricular point (RPA)
+* Mark 50% between LPA and RPA
+* Where the two meet is CZ
+
 
 <img src="media/BHV19_tdcs4.png" width="400">   <img src="media/BHV19_tdcs5.png" width="400"> 
 
@@ -325,20 +333,6 @@ Can potentially be used to reduce addictive behaviors that include cravings for 
   * Montage (electrode placement on scalp and expected outcome)
  * Choose a test for outcomes (did it work?)
 
-
-### **Map Your Head**
-
-<img src="media/BHV19_ho2.png" width="300"><img src="media/BHV19_ho3.png" width="300"> 
-
-* Even numbers on the right and odd numbers on the left
-* Find your CZ
-* Measure from Nasion to Inion
-* Mark 50% between N and I
-* Measure from left preauricular point (LPA) to right preauricular point (RPA)
-* Mark 50% between LPA and RPA
-* Where the two meet is CZ
-
-<img src="media/BHV19_tdcs18.png" width="400"> 
 
 ### Using tDCS
 1. Place the electrodes at the correct places on your scalp for your montage 
