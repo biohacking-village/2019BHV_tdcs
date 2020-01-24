@@ -9,6 +9,8 @@ As part of our commitment to biohacking and open science, this 2019 DEF CON [Bio
  
 Are you interested in the world of biohacking but don’t know where to start? Are you an experienced grinder who simply wants to learn more about how to hack your own brain? Join us in this hands-on workshop where you will learn about the basics of tDCS as we walk you through how to choose the proper montage, electrode placement, and how to construct your own studies in a sound and scientific manner. All while zapping your brain with a 9 volt battery. What could be more fun?
 
+[Original presentation - PPT](https://github.com/biohacking-village/2019BHV_tdcs/blob/master/media/tDCS-Workshop_DC27.pptx)
+
 **DISCLAIMER**
 
 The tDCS device provided in this workshop is not intended as a medical device and is not approved by the FDA. The user accepts all risk associated with the advice, guidance, claims, and references provided within this presentation.
